@@ -5,7 +5,6 @@ export default [
     lat: "34.1463",
     lng: "73.21168",
   },
-  
   {
     country: "PK",
     name: "Adilpur",
