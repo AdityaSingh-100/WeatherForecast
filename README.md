@@ -25,7 +25,7 @@ Weather-io is a weather forecast website that provides users with up-to-date wea
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Weather-io.git
+   git clone https://github.com/AdityaSingh-100/WeatherForecast.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
