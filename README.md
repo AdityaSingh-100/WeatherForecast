@@ -54,7 +54,7 @@ If you'd like to contribute to Weather-io, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please [create an issue](https://github.com/AdityaSingh-100/WeatherForecast) on the GitHub repository.
+If you encounter any issues or have suggestions for improvement, please [create an issue](https://github.com/AdityaSingh-100/Weather-io/issues) on the GitHub repository.
 
 ## License
 
